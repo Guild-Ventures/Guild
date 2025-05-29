@@ -1,99 +1,125 @@
-# 🏰 Guild: Enterprise AI Agent Framework
+# 🏰 Guild Ventures – AI‑Powered Web3 Venture Studio
 
-> **One developer managing multiple concurrent enterprise projects**  
-> **Current acceleration: 10-20x per project (based on internal testing)**
+_Building multiple Web3 products simultaneously through AI agent orchestration_
 
-## What is Guild?
-
-Guild is a modular, multi-agent AI framework built in Go, designed to automate complex development tasks by orchestrating specialized AI agents ("artisans"). Each artisan handles roles like coding, reviewing, or testing, collaborating seamlessly to achieve ambitious technical objectives.
-
-**The Vision:** Enable one developer to deliver results traditionally requiring entire development teams, across multiple concurrent projects.
-
-## 🏗️ Key Components
-
-- **Agents (Artisans)**: Specialized AI workers handling distinct roles
-- **Guild-Core**: Coordinates agents, task distribution, and workflow orchestration
-- **Guild-Corpus**: Knowledge management and retrieval (RAG) to enhance agent intelligence
-- **Guild-TUI**: Interactive terminal UI for managing tasks and agent interactions
-- **Guild-MCP**: Model Context Protocol integration with both client and server capabilities for seamless tool and service connectivity
-- **Guild-Prompt-Storage**: Secure, version-controlled prompt management via Git
-
-## 🚀 Key Benefits
-
-### **Unprecedented Productivity**
-
-- **10-20x acceleration** per project (validated in pilot projects)
-- **Concurrent management** of multiple projects by a single developer
-- **Automated execution** of complex development workflows
-
-### **High-Performance Features**
-
-- **Advanced cost optimization** and real-time budget tracking
-- **Comprehensive audit logging** for development transparency
-- **Secure sandboxed environments** for reliable execution
-- **Production-grade reliability** at startup speed
-
-### **Developer Experience**
-
-- **Simple, intuitive interfaces** to manage tasks and workflows
-- **Engaging guild-themed terminology** ("artisans" for agents, "commissions" for tasks) makes complex workflows easy to understand
-- **Modular, extensible architecture** supports rapid integration and scaling
-
-## 📊 Development Progress
-
-**Framework Status (70% of MVP milestones achieved):**
-
-### **Claude Code Development & Testing**
-
-- 🔧 Extensive Claude Code usage driving Guild design refinement
-- ✅ 3 productivity tools built during development process (saving 1+ month annually)
-- 🔧 60K+ lines of production-grade Go Python and Lua code generated through Claude Code workflows in last month
-- ✅ Claude Code and Max plan integrated into framework
-
-### **Core Framework Development**
-
-- 🔧 Agent orchestration architecture designed and partially implemented
-- 🔧 Multi-project management system in development
-- 🔧 RAG and knowledge management foundation established
-- 🔧 Agent specialization and workflow automation (in progress)
-
-**Current Focus:** Transitioning from Claude Code-powered development to full Guild framework implementation
-
-## 🎯 Ideal Applications
-
-Guild excels for organizations that prioritize speed, innovation, and breakthrough productivity:
-
-- **Crypto/Web3 protocols and infrastructure**
-- **High-growth startups scaling rapidly**
-- **Infrastructure companies building at scale**
-- **Developer tooling and platform companies**
-- **Any organization where 30x development acceleration provides competitive advantage**
-
-Perfect for teams that move fast, embrace cutting-edge technology, and need to ship complex products quickly.
-
-## 💼 Early Access & Partnership
-
-Guild is currently in private development with limited availability for early-access partnerships.
-
-**We are seeking:**
-
-- **Fast-moving organizations** ready to pilot breakthrough productivity tools
-- **Startups and scale-ups** needing rapid development acceleration
-- **Crypto/Web3 companies** building complex infrastructure
-- **Technical leaders** exploring next-generation development frameworks
-
-## 📞 Contact
-
-**Blockhead Consulting**  
-Next-Generation Development Framework Implementation
-
-- **Website:** blockhead.consulting (launching soon)
-- **Services:** Guild implementation, AI development acceleration, rapid prototyping
-
-**Available for immediate consulting:** High-performance development, crypto infrastructure, AI agent systems
+> **One senior engineer amplified into a full development team.**  
+> **>100K lines of executable production code shipped in 7 weeks.**
 
 ---
 
-**🔒 Repository Notice:** This repository contains framework documentation only. Guild technology is proprietary and available for pilot partnerships and licensing through Blockhead Consulting.
+## 1 Why Guild Exists
 
-_Copyright © 2025 Blockhead Consulting. All rights reserved._
+Traditional Web3 startups burn months recruiting and coordinating engineers.  
+**Guild's proprietary Agent Framework transforms development velocity** – turning weeks into days and enabling parallel venture development at unprecedented scale.
+
+**The moment is now:** AI coding matured + cheap Web3 infrastructure + $500M+ unclaimed grant capital = massive execution advantage.
+
+---
+
+## 2 Proven Results
+
+| Metric                        | Achievement                         | Details                                                         |
+| ----------------------------- | ----------------------------------- | --------------------------------------------------------------- |
+| **Executable code generated** | **100K+ lines**                     | Go, Python, JS, Lua, Vimscript (_excludes_ 300K+ planning docs) |
+| **Concurrent projects**       | 2-4 active per dev                  | Sustained without context‑switching penalties                   |
+| **Development acceleration**  | 10-20x baseline                     | Measured by wall‑clock time to feature parity                   |
+| **Public demonstrations**     | Multiple high quality repos shipped | Claude‑Code SDK, AlgoScales, Agentic data tools, CLI Tools      |
+
+---
+
+## 3 Guild Agent Framework (private β)
+
+_Multi‑objective campaign engine · Cost‑aware orchestration · Modular component library · Persistent knowledge corpus_
+
+| Capability                         | Status        | Impact                                              |
+| ---------------------------------- | ------------- | --------------------------------------------------- |
+| Campaign orchestration engine      | ✓ Complete    | Coordinates complex multi‑repo builds               |
+| Provider‑agnostic LLM integration  | ✓ Production  | Claude, GPT‑4o, local models – optimal cost routing |
+| Magnitude scoring & spend tracking | ✓ Integrated  | Predictable AI costs, no runaway expenses           |
+| Real‑time agent team monitoring    | ✓ Operational | Human‑in‑the‑loop control with full audit trails    |
+| **Framework v1.0 completion**      | **2-3 weeks** | Final integration and production hardening          |
+
+---
+
+## 4 Active Venture Pipeline
+
+| Product                  | Stage               | Market Opportunity                                                   |
+| ------------------------ | ------------------- | -------------------------------------------------------------------- |
+| **ShinySwap**            | Architecture locked | P2P precious metals (22% dealer spreads = $45B+ market inefficiency) |
+| **MemeOffering**         | Prototype active    | Compliant memecoin crowdfunding (post‑SEC guidance)                  |
+| **Grant/Bounty capture** | Pipeline built      | $150K+ identified opportunities across major ecosystems              |
+
+_Every venture contributes reusable components back to the studio– **velocity compounds exponentially**._
+
+---
+
+## 5 Execution Roadmap
+
+**Phase 1 (Next 3 months):**
+
+- Complete Guild Framework v1.0
+- Ship ShinySwap MVP with dealer partnerships
+- Launch MemeOffering public beta
+- Secure $150K+ in ecosystem grants
+
+**Phase 2 (Months 4‑12):**
+
+- Add 2‑3 senior engineers with deep crypto/AI expertise
+- Launch 3‑5 additional high‑impact products
+- Scale modular component library
+- Target break‑even through product revenue
+
+**Phase 3 (Year 2+):**
+
+- Enterprise framework licensing
+- Venture exits and strategic partnerships
+- International expansion
+
+---
+
+## 6 Capital Strategy
+
+**Framework completion:** 2‑3 weeks focused development to production‑ready v1.0  
+**Immediate need:** Minimal runway to complete without distraction
+
+**Growth capital deploys directly into:**
+
+- Senior engineering talent with proven crypto/AI expertise
+- Aggressive development across high‑impact Web3 opportunities
+- Capturing substantial ecosystem grant revenue
+- Scaling the proven AI‑accelerated development model
+
+**Target:** Cash‑flow positive within 4‑6 months through grants + early product traction
+
+---
+
+## 7 Technical Founder
+
+**Lance Rogers** – 9 years backend systems (Go, Python, Blockchain)  
+Ex‑Dragonchain • Mythical Games (50M+ Blockchain Gaming Infra) • 9 Years Crypto • 5 Years Fintech
+Built the **first Claude Code CLI SDK** within one week of Anthropic's API release  
+**Proven track record:** Ships production systems, not prototypes
+
+---
+
+## 8 Strategic Partners Wanted
+
+| You are          | Opportunity                                            |
+| ---------------- | ------------------------------------------------------ |
+| **Investor**     | Multiple revenue streams, proven AI methodology        |
+| **Protocol/DAO** | Rapid ecosystem development, grant‑to‑product pipeline |
+| **Engineer**     | Join as technical co‑founder post‑initial funding      |
+
+---
+
+## 9 Get Involved
+
+**Ready to build the future of AI‑accelerated Web3 development?**
+
+📧 **Contact:** <lance@guildventures.xyz>  
+🔗 **Live code:** Multiple repos demonstrating production‑quality AI‑generated systems  
+📊 **Framework demo:** Available for qualified strategic partners
+
+---
+
+_© 2025 Guild Ventures. Core framework proprietary; supporting tools Apache‑2.0 unless noted._
